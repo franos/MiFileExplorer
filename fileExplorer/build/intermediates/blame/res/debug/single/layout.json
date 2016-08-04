@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\file_explorer_list.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\file_explorer_list.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\dropdown_item.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\server_control_activity.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\server_control_activity.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\file_browser_item.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\file_browser_item.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\information_dialog.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\information_dialog.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\category_file_browser_item.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\category_file_browser_item.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\fragment_pager.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\file_explorer_category.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\file_explorer_category.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\favorite_item.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\favorite_item.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\layout\\textinput_dialog.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\layout\\textinput_dialog.xml"
+    }
+]

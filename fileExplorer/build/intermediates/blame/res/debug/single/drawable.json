@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\operation_button_background.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\operation_button_background.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\category_button_bottom.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\category_button_bottom.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_item_bg.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\dropdown_item_bg.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\remote_button_bg.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\remote_button_bg.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\category_button_top.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\category_button_top.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\path_up_level.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\path_up_level.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\category_button_middle.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\category_button_middle.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_last.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\btn_bottom_last.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\path_pane_bg.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\path_pane_bg.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\btn_bottom.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\category_button_right.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\category_button_right.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_button_bar.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\bottom_button_bar.xml"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable\\category_button_left.xml",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable\\category_button_left.xml"
+    }
+]

@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:21:1-98:12
+	package
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:22:5-38
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:24:5-30
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:23:5-28
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:21:11-69
+uses-sdk
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:26:5-44
+	android:targetSdkVersion
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:26:15-41
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+		INJECTED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:29:22-64
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:32:22-72
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:33:5-74
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:33:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:35:22-76
+application
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:37:5-96:19
+	android:label
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:39:9-41
+	android:uiOptions
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:41:9-53
+	android:icon
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:38:9-38
+	android:theme
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:40:9-56
+activity#net.micode.fileexplorer.FileExplorerTabActivity
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:42:9-70:20
+	android:screenOrientation
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:45:13-47
+	android:configChanges
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:44:13-62
+	android:uiOptions
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:46:13-57
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:43:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:49:27-73
+category#android.intent.category.LAUNCHER
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:50:27-74
+intent-filter#android.intent.action.MEDIA_MOUNTED+android.intent.action.MEDIA_UNMOUNTED+android.intent.action.PICK+android.intent.category.DEFAULT
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:52:13-61:29
+action#android.intent.action.PICK
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:53:25-66
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:57:17-78
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:57:25-75
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:58:25-77
+data
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:60:17-47
+	android:scheme
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:60:23-44
+intent-filter#android.intent.action.GET_CONTENT+android.intent.category.DEFAULT+android.intent.category.OPENABLE
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:62:13-69:29
+action#android.intent.action.GET_CONTENT
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:63:17-76
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:63:25-73
+category#android.intent.category.OPENABLE
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:65:27-74
+activity#net.micode.fileexplorer.net.micode.fileexplorer.SearchActivity
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:72:9-82:20
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:72:19-73
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:73:13-77:29
+action#android.intent.action.SEARCH
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:74:17-71
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:74:25-68
+meta-data#android.app.searchable
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:79:13-81:54
+	android:resource
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:81:17-51
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:80:17-54
+activity#net.micode.fileexplorer.FileExplorerPreferenceActivity
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:84:9-89:20
+	android:label
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:85:13-49
+	android:launchMode
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:86:13-43
+	android:theme
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:88:13-72
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:87:13-58
+meta-data#android.app.default_searchable
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:91:9-93:47
+	android:value
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:92:13-58
+service#net.micode.fileexplorer.FTPServerService
+ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:95:9-53
+	android:name
+		ADDED from F:\AsPrj\GitHub\MiFileExplorer\fileExplorer\src\main\AndroidManifest.xml:95:18-50

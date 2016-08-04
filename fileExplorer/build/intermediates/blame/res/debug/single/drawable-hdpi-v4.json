@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottom_last_normal.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\btn_bottom_last_normal.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_theme.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_theme.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_button_bg_left.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_button_bg_left.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_select_all.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ic_menu_select_all.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_rar.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_rar.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_zip.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_zip.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_show_sys.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ic_menu_show_sys.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_mid.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_mid.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_theme.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_theme.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_txt.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_txt.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_move.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_move.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sd_card_icon.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\sd_card_icon.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\image_icon_bg.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\image_icon_bg.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_theme.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_theme.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up_level_pressed.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\up_level_pressed.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottom_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\btn_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_document.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_document.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_button_bg_middle.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_button_bg_middle.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_picture.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_picture.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_refresh.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\empty_icon.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\empty_icon.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_picture.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_picture.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_new_folder.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ic_menu_new_folder.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_info_gray.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_info_gray.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disconnect.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\disconnect.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\secondary_title_background.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\secondary_title_background.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_video.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_video.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_video.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_video.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete_favorite.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ic_menu_delete_favorite.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_cancel.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_cancel.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_picture.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_picture.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_default.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_default.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_music.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_music.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_button_bar_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\bottom_button_bar_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\path_pane_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\path_pane_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_document.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_document.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_icon_folder.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\dropdown_icon_folder.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottom_normal.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\btn_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remote_button_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\remote_button_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\dropdown_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_delete.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_delete.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sd_card_available_icon.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\sd_card_available_icon.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_bg.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\popup_bg.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_music.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_music.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_down.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_zip.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_zip.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_state4.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\wifi_state4.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_apk.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_apk.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_normal.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\dropdown_normal.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sd_not_available.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\sd_not_available.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_theme.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_theme.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\information_bg.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\information_bg.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_button_bg_right.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_button_bg_right.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_button_bg_selected.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_button_bg_selected.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_zip.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_zip.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_zip.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_zip.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_picture.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_picture.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_other.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_other.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_video.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_video.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_send.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_send.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up_level.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\up_level.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_info.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_info.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_selectall.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_selectall.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ipaddress_bg.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ipaddress_bg.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown_icon_root.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\dropdown_icon_root.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\dropdown.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_mask.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_mask.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_holo_light.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_office.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_office.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_copy.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_copy.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_mp3.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_mp3.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_empty.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_empty.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_apk.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_apk.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remote_button.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\remote_button.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_apk.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_apk.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_wma.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_wma.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_button_bar_normal.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\bottom_button_bar_normal.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\path_pane.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\path_pane.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_up.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\arrow_up.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_button_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_button_pressed.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_favorite.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_favorite.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_video.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_video.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\legend_other.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\legend_other.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder_fav.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\folder_fav.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_state0.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\wifi_state0.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_sort.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\ic_menu_sort.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_bar_document.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_bar_document.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_pdf.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_pdf.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\operation_bar_bg.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\operation_bar_bg.9.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_icon_wav.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\file_icon_wav.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_sys_install_complete.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\stat_sys_install_complete.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\connect.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\connect.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_holo_light.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category_icon_music.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\category_icon_music.png"
+    },
+    {
+        "merged": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_bottom_last_pressed.9.png",
+        "source": "F:\\AsPrj\\GitHub\\MiFileExplorer\\fileExplorer\\src\\main\\res\\drawable-hdpi\\btn_bottom_last_pressed.9.png"
+    }
+]

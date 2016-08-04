@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MiFileExplorer.iml" filepath="$PROJECT_DIR$/MiFileExplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileExplorer/fileExplorer.iml" filepath="$PROJECT_DIR$/fileExplorer/fileExplorer.iml" />
+    </modules>
+  </component>
+</project>

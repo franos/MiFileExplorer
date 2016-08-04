@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="background">#272727</color>
+    <color name="deepcolor">#faaa5f</color>
+    <color name="gray">#A6A6A0</color>
+    <color name="naming">#ABABAB</color>
+    <color name="orange">#ff9900</color>
+    <color name="orange_yellow">#9b9ba0</color>
+    <color name="red">#FF0000</color>
+    <color name="remote_connect_text">#FFe78018</color>
+    <color name="remote_disconnect_text">#FF901821</color>
+    <color name="shadowcolor">#333333</color>
+    <color name="yellow">#FFF000</color>
+    <drawable name="semi_black">#80000000</drawable>
+    <string name="added_favorite">Added to Favorites</string>
+    <string name="app_name">File Explorer</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_all">All</string>
+    <string name="category_apk">APKs</string>
+    <string name="category_document">Docs</string>
+    <string name="category_favorite">Favorites</string>
+    <string name="category_music">Music</string>
+    <string name="category_other">Misc</string>
+    <string name="category_picture">Pics</string>
+    <string name="category_theme">Themes</string>
+    <string name="category_video">Videos</string>
+    <string name="category_zip">Zips</string>
+    <string name="confirm">OK</string>
+    <string name="confirm_know">OK</string>
+    <string name="default_primary_folder">/mnt/sdcard</string>
+    <string name="dialog_select_type">Select file type</string>
+    <string name="dialog_type_audio">Audio</string>
+    <string name="dialog_type_image">Image</string>
+    <string name="dialog_type_text">Text</string>
+    <string name="dialog_type_video">Video</string>
+    <string name="enable_sd_card">SD card is not available, please connect one</string>
+    <string name="error_info_cant_send_folder">Unable to send the folder</string>
+    <string name="fail_to_create_folder">Failed to create the folder, the folder already exists</string>
+    <string name="fail_to_rename">Failed to rename the file or folder as it already exists</string>
+    <string name="favorite_photo">Photo</string>
+    <string name="favorite_ringtone">Ringtone</string>
+    <string name="favorite_screen_cap">MIUI Screen Shot</string>
+    <string name="favorite_sdcard">SD Card</string>
+    <string name="favourite_root">Root</string>
+    <string name="file_info_canread">Readable:</string>
+    <string name="file_info_canwrite">Writable:</string>
+    <string name="file_info_ishidden">Hidden:</string>
+    <string name="file_info_location">Path:</string>
+    <string name="file_info_modified">Modified:</string>
+    <string name="file_info_size">Size:</string>
+    <string name="file_size">%d Bytes</string>
+    <string name="install_failed">Installation failed</string>
+    <string name="install_successful">Installation successful</string>
+    <string name="instruction">Enter the following address into your FTP Client:</string>
+    <string name="instruction_pre">Start service to enable FTP server</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_item_search">Search</string>
+    <string name="menu_item_sort">Sort by</string>
+    <string name="menu_item_sort_date">Date</string>
+    <string name="menu_item_sort_name">Name</string>
+    <string name="menu_item_sort_size">Size</string>
+    <string name="menu_item_sort_type">Type</string>
+    <string name="menu_setting">Preferences</string>
+    <string name="multi_select_title">Selected <ns1:g id="number">%1$s</ns1:g> item(s)</string>
+    <string name="new_folder_name">New folder</string>
+    <string name="no">No</string>
+    <string name="no_file">No files</string>
+    <string name="no_wifi">No Wi-Fi network</string>
+    <string name="no_wifi_hint">No Wi-Fi network, press to check WiFi settings</string>
+    <string name="notif_server_starting">FTP Server started</string>
+    <string name="notif_title">FTP Server</string>
+    <string name="operation_cancel">Cancel</string>
+    <string name="operation_cancel_selectall">Deselect All</string>
+    <string name="operation_copy">Copy</string>
+    <string name="operation_copy_path">Copy file path</string>
+    <string name="operation_create_folder">New folder</string>
+    <string name="operation_create_folder_message">Enter folder name</string>
+    <string name="operation_delete">Delete</string>
+    <string name="operation_delete_confirm_message">Confirm Deletion?</string>
+    <string name="operation_deleting">Deleting...</string>
+    <string name="operation_favorite">Add to Favorites</string>
+    <string name="operation_hide_sys">Hide hidden files</string>
+    <string name="operation_info">Details</string>
+    <string name="operation_move">Move</string>
+    <string name="operation_moving">Moving...</string>
+    <string name="operation_paste">Paste</string>
+    <string name="operation_pasting">Pasting...</string>
+    <string name="operation_refresh">Refresh</string>
+    <string name="operation_rename">Rename</string>
+    <string name="operation_rename_message">Enter a new name</string>
+    <string name="operation_selectall">Select All</string>
+    <string name="operation_send">Send</string>
+    <string name="operation_show_sys">Show hidden files</string>
+    <string name="operation_unfavorite">Remove from Favorites</string>
+    <string name="pref_primary_folder">Home folder</string>
+    <string name="pref_primary_folder_summary">The folder that appears when the app starts, and current value is <ns1:g id="string">%1$s</ns1:g></string>
+    <string name="pref_read_root">Read root</string>
+    <string name="pref_show_real_path">Display real path</string>
+    <string name="pref_show_real_path_summary">Show real path in navigation bar</string>
+    <string name="preference_title">General Settings</string>
+    <string name="removed_favorite">Removed from Favorites</string>
+    <string name="sd_card_available">Space available:<ns1:g id="available_size">%1$s</ns1:g></string>
+    <string name="sd_card_size">SD card:<ns1:g id="total_size">%1$s</ns1:g></string>
+    <string name="sd_folder">SD card</string>
+    <string name="search_hint">Search Files</string>
+    <string name="search_title">Search Files</string>
+    <string name="start_server">Start Service</string>
+    <string name="stop_server">Stop Service</string>
+    <string name="storage_warning">External storage is not available or cannot be read</string>
+    <string name="tab_category">Browse</string>
+    <string name="tab_remote">FTP</string>
+    <string name="tab_sd">File</string>
+    <string name="wifi_state">WLAN Status</string>
+    <string name="yes">Yes</string>
+    <style name="ActionButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">@style/TextAppearance.ActionButton</item>
+    </style>
+    <style name="BottomButton">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceSmallInverse</item>
+        <item name="android:textColor">#cc000000</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:shadowColor">#80ffffff</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/btn_bottom</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+    <style name="BottomButton.Left">
+    </style>
+    <style name="BottomButton.Right">
+        <item name="android:background">@drawable/btn_bottom_last</item>
+    </style>
+    <style name="BottomButtonBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:background">@drawable/bottom_button_bar</item>
+    </style>
+    <style name="CategoryButtonCountTextStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">15px</item>
+        <item name="android:textColor">#A6A6A6</item>
+    </style>
+    <style name="CategoryButtonIconStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginBottom">3px</item>
+    </style>
+    <style name="CategoryButtonStyle">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="CategoryButtonTextStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">19px</item>
+        <item name="android:textColor">#111111</item>
+    </style>
+    <style name="CategoryLegendStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">left</item>
+        <item name="android:drawablePadding">5px</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">10dip</item>
+        <item name="android:layout_marginLeft">2dip</item>
+    </style>
+    <style name="CategoryLegendStyleLand">
+        <item name="android:layout_height">0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">left</item>
+        <item name="android:drawablePadding">5px</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">10dip</item>
+        <item name="android:layout_marginLeft">2dip</item>
+    </style>
+    <style name="DeepStyle">
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">-0.5</item>
+        <item name="android:shadowDy">-0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="Dialog_Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="FileViewOperationButtonStytle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14dip</item>
+        <item name="android:textColor">#666666</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/operation_button_background</item>
+    </style>
+    <style name="FileViewOperationMoveButtonStytle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18dip</item>
+        <item name="android:textColor">#666666</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_marginRight">5dip</item>
+        <item name="android:background">@drawable/remote_button_bg</item>
+    </style>
+    <style name="FileViewToolbarButtonStytle">
+        <item name="android:padding">10dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="GreenStyle">
+        <item name="android:shadowColor">#003300</item>
+        <item name="android:shadowDx">-0.5</item>
+        <item name="android:shadowDy">-0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="HomeButtonStytle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">10dip</item>
+    </style>
+    <style name="InformationDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/popup_bg</item>
+    </style>
+    <style name="InformationItemContentStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14dip</item>
+        <item name="android:layout_marginLeft">5dip</item>
+    </style>
+    <style name="InformationItemStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:layout_marginBottom">5dip</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="InformationItemTitleStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">60dip</item>
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textSize">14dip</item>
+    </style>
+    <style name="InformationTextStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">#222222</item>
+        <item name="android:textSize">12dip</item>
+        <item name="android:drawablePadding">5dip</item>
+    </style>
+    <style name="OrangeStyle">
+        <item name="android:shadowColor">#742061</item>
+        <item name="android:shadowDx">-0.5</item>
+        <item name="android:shadowDy">-0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="ShadowStyle">
+        <item name="android:shadowColor">#6e6e6e</item>
+        <item name="android:shadowDx">0.5</item>
+        <item name="android:shadowDy">0.5</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+    <style name="TextAppearance" parent="android:TextAppearance">
+    </style>
+    <style name="TextAppearance.ActionButton">
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>
